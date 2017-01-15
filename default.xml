@@ -24,10 +24,10 @@
         remote="github"
         revision="coreboot-4.0.x"/>
 
-    <project path="apu2/sortbootorder"
+    <project path="apu2/coreboot/payloads/pcengines/sortbootorder"
         name="pcengines/sortbootorder"
         remote="github"
-        revision="refs/tags/v4.5.3"/>
+        revision="coreboot-4.0.x"/>
 
     <project path="apu2/ipxe"
         name="pcengines/ipxe"
