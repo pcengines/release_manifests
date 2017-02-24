@@ -14,9 +14,9 @@ There are two branches:
 mkdir apu2_fw_rel
 cd apu2_fw_rel
 
-repo init -u git@github.com:mek-x/pcengines_manifests.git -b refs/tags/<tag_release>
+repo init -u git@github.com:pcengines/release_manifests.git -b refs/tags/<tag_release>
 # or
-repo init -u git@github.com:mek-x/pcengines_manifests.git -b <branch_name>
+repo init -u git@github.com:pcengines/release_manifests.git -b <branch_name>
 
 repo sync --force-sync
 ```
@@ -50,6 +50,8 @@ Please choose:
 ```
 Mainboard -> Mainboard vendor -> PC Engines
 Mainboard -> Mainboard model  -> APU2
+#or
+Mainboard -> Mainboard model  -> APU3
 ```
 
 All other pieces will be set according to recent release configuration.
