@@ -2,35 +2,29 @@
 <manifest>
     <remote name="github" fetch="ssh://git@github.com"/>
 
-    <default revision="master" remote="github" sync-j="4" sync-c="true" />
+    <default revision="master" remote="github" sync-j="4" sync-c="true"/>
 
     <project path="apu2/apu2-documentation"
         name="pcengines/apu2-documentation"
-        remote="github"
         revision="master"/>
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        remote="github"
-        revision="refs/tags/v4.0.5"/>
+        revision="refs/tags/v4.0.6"/>
 
     <project path="apu2/seabios"
         name="pcengines/seabios"
-        remote="github"
         revision="refs/tags/rel-1.9.2.3"/>
 
     <project path="apu2/memtest86plus"
         name="pcengines/memtest86plus"
-        remote="github"
         revision="coreboot-4.0.x"/>
 
     <project path="apu2/coreboot/payloads/pcengines/sortbootorder"
         name="pcengines/sortbootorder"
-        remote="github"
         revision="coreboot-4.0.x"/>
 
     <project path="apu2/ipxe"
         name="pcengines/ipxe"
-        remote="github"
         revision="master"/>
 </manifest>
