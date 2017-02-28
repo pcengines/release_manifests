@@ -10,11 +10,11 @@
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        revision="refs/tags/v4.0.6"/>
+        revision="refs/tags/v4.0.7"/>
 
     <project path="apu2/seabios"
         name="pcengines/seabios"
-        revision="refs/tags/rel-1.9.2.3"/>
+        revision="refs/tags/rel-1.10.0.1"/>
 
     <project path="apu2/memtest86plus"
         name="pcengines/memtest86plus"
