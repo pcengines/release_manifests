@@ -82,7 +82,9 @@ To see recent changes for legacy and mainline branch:
 - [ipxe v1.0.0](https://github.com/pcengines/ipxe)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
-[Unreleased 4.0.x]: https://github.com/pcengines/coreboot/compare/v4.0.6...coreboot-4.0.x
+[Unreleased 4.0.x]: https://github.com/pcengines/coreboot/compare/v4.0.7.1...coreboot-4.0.x
+[v4.0.7.1]: https://github.com/pcengines/coreboot/compare/v4.0.7...v4.0.7.1
+[v4.0.7]: https://github.com/pcengines/coreboot/compare/v4.0.6...v4.0.7
 [v4.0.6]: https://github.com/pcengines/coreboot/compare/v4.0.5...v4.0.6
 [v4.0.5]: https://github.com/pcengines/coreboot/compare/v4.0.4...v4.0.5
 [v4.0.4]: https://github.com/pcengines/coreboot/compare/v4.0.3...v4.0.4
