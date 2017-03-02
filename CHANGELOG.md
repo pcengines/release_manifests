@@ -16,6 +16,20 @@ To see recent changes for legacy and mainline branch:
 [this gerrit ref](https://review.coreboot.org/#/c/14138/).
 
 ## [Unreleased 4.0.x]
+## [v4.0.7.1] - 2017-03-02
+- [coreboot v4.0.7.1](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v4071---2017-03-02)
+- [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
+- [sortbootorder v4.0.4](https://github.com/pcengines/sortbootorder/blob/coreboot-4.0.x/CHANGELOG.md#v404---2017-02-28)
+- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
+
+## [v4.0.7] - 2017-02-28
+- [coreboot v4.0.7](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v407---2017-02-28)
+- [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
+- [sortbootorder v4.0.4](https://github.com/pcengines/sortbootorder/blob/coreboot-4.0.x/CHANGELOG.md#v404---2017-02-28)
+- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
+
 ## [v4.0.6] - 2017-01-12
 - [coreboot v4.0.6](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v406---2017-01-12)
 - [SeaBIOS rel-1.9.2.3](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-1923---2017-01-03)
