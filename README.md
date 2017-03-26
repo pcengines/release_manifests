@@ -81,8 +81,7 @@ After successful build, you can flash target device.
 ## Flash release
 
 Note that below script assume that you have ssh enabled connection with target
-device and destination OS [APU2 image builder](https://github.com/pcengines/
-apu2-documentation#building-firmware-using-apu2-image-builder)
+device and destination OS [APU2 image builder](https://github.com/pcengines/apu2-documentation#building-firmware-using-apu2-image-builder)
 or other distro that have working `flashrom` available in `PATH`. Without keys
 added you will see question about password couple times during flashing.
 
@@ -130,6 +129,7 @@ sudo: no tty present and no askpass program specified
 ### scripts finish with error
 
 If you see something like this:
+
 ```
 dirname: missing operand
 Try 'dirname --help' for more information.
