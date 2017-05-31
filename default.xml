@@ -10,7 +10,7 @@
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        revision="refs/tags/v4.0.8"/>
+        revision="refs/tags/v4.0.9"/>
 
     <project path="apu2/coreboot/payloads/external/SeaBIOS/seabios"
         name="pcengines/seabios"
@@ -22,7 +22,7 @@
 
     <project path="apu2/coreboot/payloads/pcengines/sortbootorder"
         name="pcengines/sortbootorder"
-        revision="refs/tags/v4.0.5.1"/>
+        revision="refs/tags/v4.0.6"/>
 
     <project path="apu2/ipxe"
         name="pcengines/ipxe"
