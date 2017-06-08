@@ -18,7 +18,7 @@ To see recent changes for legacy and mainline branch:
 ## [Unreleased 4.5.x]
 
 ## [v4.5.6] - 2017-05-31
-- [coreboot v4.5.6](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v4552---2017-05-30)
+- [coreboot v4.5.6](https://github.com/pcengines/coreboot/blob/v4.5.6/CHANGELOG.md#v456---2017-05-30)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v454---2017-05-30)
 - [ipxe v1.0.0](https://github.com/pcengines/ipxe)
