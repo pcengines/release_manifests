@@ -17,8 +17,15 @@ To see recent changes for legacy and mainline branch:
 
 ## [Unreleased 4.5.x]
 
+## [v4.5.7] - 2017-06-08
+- [coreboot v4.5.7](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v457---2017-06-08)
+- [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
+- [sortbootorder v4.5.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v454---2017-05-30)
+- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
+
 ## [v4.5.6] - 2017-05-31
-- [coreboot v4.5.6](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v4552---2017-05-30)
+- [coreboot v4.5.6](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v456---2017-05-30)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v454---2017-05-30)
 - [ipxe v1.0.0](https://github.com/pcengines/ipxe)
@@ -132,7 +139,8 @@ builder)
 #### Added
 - mainline support for APU2
 
-[Unreleased 4.5.x]: https://github.com/pcengines/coreboot/compare/v4.5.6...coreboot-4.5.x
+[Unreleased 4.5.x]: https://github.com/pcengines/coreboot/compare/v4.5.7...coreboot-4.5.x
+[v4.5.7]: https://github.com/pcengines/coreboot/compare/v4.5.6...v4.5.7
 [v4.5.6]: https://github.com/pcengines/coreboot/compare/v4.5.5.2...v4.5.6
 [v4.5.5.2]: https://github.com/pcengines/coreboot/compare/v4.5.5.1...v4.5.5.2
 [v4.5.5.1]: https://github.com/pcengines/coreboot/compare/v4.5.5...v4.5.5.1
