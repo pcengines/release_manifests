@@ -17,10 +17,17 @@ To see recent changes for legacy and mainline branch:
 
 ## [Unreleased 4.0.x]
 
-## [v4.0.9] - 2017-05-31
-- [coreboot v4.0.9](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v408---2017-05-30)
+## [v4.0.10] - 2017-06-30
+- [coreboot v4.0.10](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v4010---2017-06-30)
 - [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
-- [sortbootorder v4.0.6](https://github.com/pcengines/sortbootorder/blob/coreboot-4.0.x/CHANGELOG.md#v4051---2017-05-30)
+- [sortbootorder v4.5.6](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v456---2017-06-29)
+- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
+
+## [v4.0.9] - 2017-05-31
+- [coreboot v4.0.9](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v409---2017-05-30)
+- [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
+- [sortbootorder v4.0.6](https://github.com/pcengines/sortbootorder/blob/coreboot-4.0.x/CHANGELOG.md#v406---2017-05-30)
 - [ipxe v1.0.0](https://github.com/pcengines/ipxe)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
@@ -104,7 +111,8 @@ To see recent changes for legacy and mainline branch:
 - [ipxe v1.0.0](https://github.com/pcengines/ipxe)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
-[Unreleased 4.0.x]: https://github.com/pcengines/coreboot/compare/v4.0.9...coreboot-4.0.x
+[Unreleased 4.0.x]: https://github.com/pcengines/coreboot/compare/v4.0.10...coreboot-4.0.x
+[v4.0.10]: https://github.com/pcengines/coreboot/compare/v4.0.9...v4.0.10
 [v4.0.9]: https://github.com/pcengines/coreboot/compare/v4.0.8...v4.0.9
 [v4.0.8]: https://github.com/pcengines/coreboot/compare/v4.0.7.2...v4.0.8
 [v4.0.7.2]: https://github.com/pcengines/coreboot/compare/v4.0.7.1...v4.0.7.2
