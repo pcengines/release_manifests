@@ -10,7 +10,7 @@
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        revision="refs/tags/v4.5.8"/>
+        revision="refs/tags/v4.6.0"/>
 
     <project path="apu2/coreboot/payloads/external/SeaBIOS/seabios"
         name="pcengines/seabios"
@@ -18,7 +18,7 @@
 
     <project path="apu2/coreboot/payloads/external/sortbootorder/sortbootorder"
         name="pcengines/sortbootorder"
-        revision="refs/tags/v4.5.6"/>
+        revision="refs/tags/v4.5.7"/>
 
     <project path="apu2/coreboot/payloads/external/Memtest86Plus/memtest86plus"
         name="pcengines/memtest86plus"
