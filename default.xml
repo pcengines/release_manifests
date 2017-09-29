@@ -22,7 +22,7 @@
 
     <project path="apu2/coreboot/payloads/external/Memtest86Plus/memtest86plus"
         name="pcengines/memtest86plus"
-        revision="refs/tags/v4.0.1"/>
+        revision="master"/>
 
     <project path="apu2/coreboot/3rdparty/blobs"
         name="coreboot/blobs"
