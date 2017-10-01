@@ -2,11 +2,11 @@ Release manifests for PCEngines firmware bundles
 ================================================
 
 This repository contains manifests for repo tool used for tracking the
-releases of mainline (4.5.x) and legacy (4.0.x) versions of firmware bundle.
+releases of mainline (4.6.x) and legacy (4.0.x) versions of firmware bundle.
 
 There are two branches:
 * `coreboot-4.0.x` - for legacy releases
-* `coreboot-4.5.x` - for mainline releases
+* `coreboot-4.6.x` - for mainline releases
 
 ## Use repo tool to initialize set of repositories
 
@@ -24,7 +24,7 @@ repo sync --force-sync
 where:
 * `<tag_release>` - is the release version number (e.g. `v4.5.3.1`)
 * `<branch_name>` - is the release branch (i.e. `coreboot-4.0.x` for legacy,
-and `coreboot-4.5.x` for mainline
+and `coreboot-4.6.x` for mainline
 
 ## Build container
 
