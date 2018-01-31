@@ -11,11 +11,11 @@
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        revision="refs/tags/v4.6.5"/>
+        revision="refs/tags/v4.6.6"/>
 
     <project path="apu2/coreboot/payloads/external/SeaBIOS/seabios"
         name="pcengines/seabios"
-        revision="refs/tags/rel-1.11.0.2"/>
+        revision="refs/tags/rel-1.11.0.3"/>
 
     <project path="apu2/coreboot/payloads/external/sortbootorder/sortbootorder"
         name="pcengines/sortbootorder"
