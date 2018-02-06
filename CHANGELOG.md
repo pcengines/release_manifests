@@ -12,10 +12,10 @@ components:
 
 To see recent changes for legacy and mainline branch:
 * [Releases 4.0.x](#unreleased-40x) are based on PC Engines 20160304 release.
-* [Releases 4.6.x](#unreleased-46x) are based on mainline support merged in
+* [Releases 4.7.x](#unreleased-47x) are based on mainline support merged in
   [this gerrit ref](https://review.coreboot.org/#/c/14138/).
 
-## [Unreleased 4.6.x]
+## [Unreleased 4.7.x]
 
 ## [v4.6.6] - 2018-01-31
 - [coreboot v4.6.6](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v466---2018-01-31)
@@ -196,7 +196,7 @@ builder)
 #### Added
 - mainline support for APU2
 
-[Unreleased 4.6.x]: https://github.com/pcengines/coreboot/compare/v4.6.6...coreboot-4.6.x
+[Unreleased 4.7.x]: https://github.com/pcengines/coreboot/compare/v4.6.6...coreboot-4.7.x
 [v4.6.6]: https://github.com/pcengines/coreboot/compare/v4.6.5...v4.6.6
 [v4.6.5]: https://github.com/pcengines/coreboot/compare/v4.6.4...v4.6.5
 [v4.6.4]: https://github.com/pcengines/coreboot/compare/v4.6.3...v4.6.4
