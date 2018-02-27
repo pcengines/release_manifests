@@ -11,7 +11,7 @@
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        revision="refs/tags/v4.6.6"/>
+        revision="refs/tags/v4.6.7"/>
 
     <project path="apu2/coreboot/payloads/external/SeaBIOS/seabios"
         name="pcengines/seabios"
