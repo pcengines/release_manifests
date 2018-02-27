@@ -21,49 +21,49 @@ To see recent changes for legacy and mainline branch:
 - [coreboot v4.6.7](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v467---2018-02-27)
 - [SeaBIOS rel-1.11.0.3](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11103---2018-01-31)
 - [sortbootorder v4.6.5](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v465---2017-12-29)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v5.0.1](https://review.coreboot.org/cgit/memtest86plus.git/)
 
 ## [v4.6.6] - 2018-01-31
 - [coreboot v4.6.6](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v466---2018-01-31)
 - [SeaBIOS rel-1.11.0.3](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11103---2018-01-31)
 - [sortbootorder v4.6.5](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v465---2017-12-29)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v5.0.1](https://review.coreboot.org/cgit/memtest86plus.git/)
 
 ## [v4.6.5] - 2017-12-29
 - [coreboot v4.6.5](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v465---2017-12-29)
 - [SeaBIOS rel-1.11.0.2](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11102---2017-12-22)
 - [sortbootorder v4.6.5](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v465---2017-12-29)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v5.0.1](https://review.coreboot.org/cgit/memtest86plus.git/)
 
 ## [v4.6.4] - 2017-11-30
 - [coreboot v4.6.4](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v464---2017-11-30)
 - [SeaBIOS rel-1.11.0.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11101---2017-11-30)
 - [sortbootorder v4.6.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v464---2017-11-30)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v5.0.1](https://review.coreboot.org/cgit/memtest86plus.git/)
 
 ## [v4.6.3] - 2017-10-30
 - [coreboot v4.6.3](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v463---2017-10-30)
 - [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
 - [sortbootorder v4.6.3](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v463---2017-10-30)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.6.2] - 2017-09-29
 - [coreboot v4.6.2](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v462---2017-09-29)
 - [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
 - [sortbootorder v4.5.7](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v457---2017-07-21)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.6.1] - 2017-08-31
 - [coreboot v4.6.1](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v461---2017-08-30)
 - [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
 - [sortbootorder v4.5.7](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v457---2017-07-21)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 
@@ -71,35 +71,35 @@ To see recent changes for legacy and mainline branch:
 - [coreboot v4.6.0](https://github.com/pcengines/coreboot/blob/coreboot-4.6.x/CHANGELOG.md#v460---2017-07-21)
 - [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
 - [sortbootorder v4.5.7](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v457---2017-07-21)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.5.8] - 2017-06-30
 - [coreboot v4.5.8](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v458---2017-06-30)
 - [SeaBIOS rel-1.10.2.1](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11021---2017-03-31)
 - [sortbootorder v4.5.6](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v456---2017-06-29)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.5.7] - 2017-06-08
 - [coreboot v4.5.7](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v457---2017-06-08)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.5](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v455---2017-05-30)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.5.6] - 2017-05-31
 - [coreboot v4.5.6](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v456---2017-05-30)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.5](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v455---2017-05-30)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.5.5.2] - 2017-03-03
 - [coreboot v4.5.5.2](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v4552---2017-03-03)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v454---2017-02-23)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ### Changed
@@ -109,7 +109,7 @@ To see recent changes for legacy and mainline branch:
 - [coreboot v4.5.5.1](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v4551---2017-03-02)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v454---2017-02-23)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ### Changed
@@ -119,7 +119,7 @@ To see recent changes for legacy and mainline branch:
 - [coreboot v4.5.5](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v455---2017-02-24)
 - [SeaBIOS rel-1.10.0.1](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-11001---2017-02-23)
 - [sortbootorder v4.5.4](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v454---2017-02-23)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ### Added
@@ -149,7 +149,7 @@ To see recent changes for legacy and mainline branch:
 - [coreboot v4.5.4](https://github.com/pcengines/coreboot/blob/coreboot-4.5.x/CHANGELOG.md#v454---2017-01-24)
 - [SeaBIOS rel-1.9.2.4](https://github.com/pcengines/seabios/blob/coreboot-4.0.x/CHANGELOG.md#rel-1924---2016-01-23)
 - [sortbootorder v4.5.3](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v453---2017-01-12)
-- [ipxe v1.0.0](https://github.com/pcengines/ipxe)
+- [ipxe](https://git.ipxe.org/ipxe.git)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
 ## [v4.5.3]
