@@ -17,6 +17,13 @@ To see recent changes for legacy and mainline branch:
 
 ## [Unreleased 4.0.x]
 
+## [v4.0.15] - 2018-02-27
+- [coreboot v4.0.15](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v4015---2018-03-01)
+- [SeaBIOS rel-1.11.0.3](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11103---2018-01-31)
+- [sortbootorder v4.6.5](https://github.com/pcengines/sortbootorder/blob/master/CHANGELOG.md#v465---2017-12-29)
+- [ipxe](https://github.com/ipxe/ipxe)
+- [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
+
 ## [v4.0.14] - 2017-12-22
 - [coreboot v4.0.14](https://github.com/pcengines/coreboot/blob/coreboot-4.0.x/CHANGELOG.md#v4014---2017-12-22)
 - [SeaBIOS rel-1.11.0.2](https://github.com/pcengines/seabios/blob/apu_support/CHANGELOG.md#rel-11102---2017-12-22)
@@ -139,7 +146,8 @@ To see recent changes for legacy and mainline branch:
 - [ipxe v1.0.0](https://github.com/pcengines/ipxe)
 - [memtest86+ v4.0.1](https://github.com/pcengines/memtest86plus/blob/coreboot-4.0.x/CHANGELOG.md#v401---2016-05-11)
 
-[Unreleased 4.0.x]: https://github.com/pcengines/coreboot/compare/v4.0.14...coreboot-4.0.x
+[Unreleased 4.0.x]: https://github.com/pcengines/coreboot/compare/v4.0.15...coreboot-4.0.x
+[v4.0.15]: https://github.com/pcengines/coreboot/compare/v4.0.14...v4.0.15
 [v4.0.14]: https://github.com/pcengines/coreboot/compare/v4.0.13...v4.0.14
 [v4.0.13]: https://github.com/pcengines/coreboot/compare/v4.0.12...v4.0.13
 [v4.0.12]: https://github.com/pcengines/coreboot/compare/v4.0.11...v4.0.12
