@@ -14,7 +14,7 @@
 
     <project path="apu2/coreboot/payloads/external/SeaBIOS/seabios"
         name="pcengines/seabios"
-        revision="refs/tags/rel-1.11.0.3"/>
+        revision="refs/tags/rel-1.11.0.4"/>
 
     <project path="apu2/memtest86plus"
         name="pcengines/memtest86plus"
