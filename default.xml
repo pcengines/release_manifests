@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github" fetch="https://github.com"/>
+    <remote name="coreboot" fetch="https://review.coreboot.org/"/>
 
     <default revision="master" remote="github" sync-j="4" sync-c="true"/>
 
@@ -10,15 +11,16 @@
 
     <project path="apu2/coreboot"
         name="pcengines/coreboot"
-        revision="refs/tags/v4.0.16"/>
+        revision="refs/heads/memtest-portage"/>
 
     <project path="apu2/coreboot/payloads/external/SeaBIOS/seabios"
         name="pcengines/seabios"
         revision="refs/tags/rel-1.11.0.4"/>
 
-    <project path="apu2/memtest86plus"
-        name="pcengines/memtest86plus"
-        revision="coreboot-4.0.x"/>
+    <project path="apu2/coreboot/payloads/external/Memtest86Plus/memtest86plus"
+        remote="coreboot"
+        name="memtest86plus.git"
+        revision="master"/>
 
     <project path="apu2/coreboot/payloads/external/sortbootorder/sortbootorder"
         name="pcengines/sortbootorder"
