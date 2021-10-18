@@ -144,3 +144,8 @@ Try to run:
 eval $(ssh-agent)
 ssh-add
 ```
+
+### Issues
+
+If you want to create an issue, [here](https://github.com/pcengines/apu2-documentation/issues)
+is the right place for that.
