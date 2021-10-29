@@ -145,7 +145,9 @@ eval $(ssh-agent)
 ssh-add
 ```
 
-### Issues
+### Reporting issues
 
-If you want to report an issue, [here](https://github.com/pcengines/apu2-documentation/issues)
-is the right place for that.
+If you have any trouble or find any bug, please report an issue in 
+[this location](https://github.com/pcengines/apu2-documentation/issues). To 
+create the issue, from the list of available templates select the one, that fits 
+best the nature of the issue (bug, feature, question or task) and fill it.
