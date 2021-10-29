@@ -145,7 +145,7 @@ eval $(ssh-agent)
 ssh-add
 ```
 
-### Reporting issues
+## Reporting issues
 
 If you have any trouble or find any bug, please report an issue in 
 [this location](https://github.com/pcengines/apu2-documentation/issues). To 
